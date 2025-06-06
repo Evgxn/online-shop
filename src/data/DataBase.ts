@@ -16,4 +16,16 @@ const CATEGORY_LIST = [
     id: 1,
     title: "Beverages",
   },
+  {
+    id: 2,
+    title: "Meat & Fish",
+  },
+  {
+    id: 3,
+    title: "Frash Fruits & Vegetable",
+  },
+  {
+    id: 4,
+    title: "Cooking Oil & Ghee",
+  },
 ];
